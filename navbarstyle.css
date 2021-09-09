@@ -105,6 +105,9 @@ a.active:hover {
 }
 .search {
   padding: 40;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 #searchbar {
   background-color: transparent;
